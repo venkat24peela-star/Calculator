@@ -36,7 +36,7 @@ def multiplication():
 
 
 def division():
-    """Function divide two numbers"""
+    """Function divide two numbersssss"""
     n1 = float(input("Enter first number: "))
     n2 = float(input("Enter second number: "))
     if n2 == 0:
