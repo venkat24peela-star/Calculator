@@ -1,1 +1,3 @@
-This is some random text file.
+This is some random text file. 
+
+This is the additional change by copy1.
